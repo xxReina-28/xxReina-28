@@ -1,5 +1,5 @@
 
-## 👋 Hi, I’m Niña (Reina)
+## 👋 Hi, I’m Niña Peterine Sheen Suico (Reina)
 
 Business Systems . Operations Automation . Data Analytics  
 Open to opportunities . Willing to relocate. Remote
