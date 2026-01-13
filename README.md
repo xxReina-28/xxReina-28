@@ -2,7 +2,6 @@
 ## 👋 Hi, I’m Niña Peterine Sheen Suico (Reina)
 
 Business Systems . Operations Automation . Data Analytics  
-Open to opportunities . Willing to relocate. Remote
 
 I design and document systems that reduce manual work, improve visibility,
 and support better decision-making across operations and client teams.
