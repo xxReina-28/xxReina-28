@@ -5,15 +5,16 @@ Business Systems . Operations Automation . Data Analytics
 
 I build AI-enabled workflows, automation systems, and data pipelines that translate messy real-world operations into structured, operable systems.
 My work spans system architecture, orchestration logic, and analytics, with attention to tradeoffs, reliability, and scaling constraints.
-Currently working as a Strategic Partnerships and Special Operations Lead, focused on designing sales and operational architectures that scale across teams.
+
+I currently work as a Strategic Partnerships and Special Operations Lead, designing sales and operational architectures that scale across teams.
 
 My background spans client services, BPO operations, and process coordination.
 
 ### What I work on
-- Workflow automation (forms . approvals . reminders)
+- Workflow automation and orchestration (forms, approvals, reminders)
 - Process documentation and system architecture
-- Data modeling and reporting for operations
-- Analytics projects using SQL and Power BI
+- Data modeling, reporting, and operational analytics
+- Analytics systems using SQL and Power BI
 
 ### Featured Projects
 - **Pipeline Strategist Agent**  
